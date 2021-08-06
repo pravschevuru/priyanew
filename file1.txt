@@ -1,4 +1,2 @@
 hello
-its my first roject in giti
-updating in development branch
-master
+its my first roject in git
